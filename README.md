@@ -47,7 +47,7 @@ Follow these steps to run the project:
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/SafakYaslak/6DOF-Pose-Estimation-With-PNP-.git
+git clone https://github.com/SafakYaslak/6DOF-Pose-Estimation-With-PNP-.git
 cd pnp_alg
 ```
 
