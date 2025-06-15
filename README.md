@@ -127,8 +127,8 @@ For an input image `img2.png`, the script might produce:
 Top 5 results:
 1. Result:
    Dimensions: Upper Width=17.2, Lower Width=22.1, Height=10.5
-   Angles: Roll=2.1°, Pitch=1.8°, Yaw=0.9°
-   Radian Distance: 0.0412
+   Angles: Roll=10.1°, Pitch=-30.8°, Yaw=0.9°
+   Radian Distance: 0.412
 ```
 
 The corresponding window displays the axes and detailed text overlay.
